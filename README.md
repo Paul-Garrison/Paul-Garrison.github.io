@@ -1,2 +1,2 @@
-# Paul-Garrison.github.io
+# Paul Garrison
 About me page with contact information and resume
